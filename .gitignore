@@ -14,3 +14,4 @@
 *.tvsconfig
 *.log
 Test/bitmaps/*_out.*
+Includes/gnugettext.pas
